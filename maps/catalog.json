@@ -1,35 +1,38 @@
 [
   {
-    "id": "wesnoth",
-    "name": "The Battle for Wesnoth · 세계 지도",
-    "path": "/maps/wesnoth.webp",
-    "icons": [
-      {
-        "type": "treasure",
-        "path": "/maps/wesnoth-treasure.png"
-      }
-    ]
+    "id": "gta5",
+    "name": "GTA5",
+    "description": "수집품·미션·다시 갈 장소를 기록하세요.",
+    "labels": {
+      "pin": "장소",
+      "quest": "미션",
+      "treasure": "수집품",
+      "danger": "위험 지역",
+      "home": "거점"
+    }
   },
   {
-    "id": "mana",
-    "name": "The Mana World · 001-1 지역 미니맵",
-    "path": "/maps/mana.png",
-    "icons": [
-      {
-        "type": "treasure",
-        "path": "/maps/mana-treasure.png"
-      }
-    ]
+    "id": "elden-ring",
+    "name": "엘든 링",
+    "description": "보스·던전·NPC와 다시 방문할 곳을 기록하세요.",
+    "labels": {
+      "pin": "NPC·장소",
+      "quest": "퀘스트",
+      "treasure": "아이템",
+      "danger": "보스·던전",
+      "home": "축복"
+    }
   },
   {
-    "id": "flare",
-    "name": "Flare · Ancient Temple 바닥 간략도",
-    "path": "/maps/flare.png",
-    "icons": [
-      {
-        "type": "treasure",
-        "path": "/maps/flare-treasure.png"
-      }
-    ]
+    "id": "stardew-valley",
+    "name": "스타듀 밸리",
+    "description": "채집·낚시·농장 작업과 주민 동선을 기록하세요.",
+    "labels": {
+      "pin": "주민·장소",
+      "quest": "농장 할 일",
+      "treasure": "채집·낚시",
+      "danger": "광산",
+      "home": "집·농장"
+    }
   }
 ]
