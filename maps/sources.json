@@ -1,0 +1,43 @@
+[
+  {
+    "name": "wesnoth",
+    "repo": "wesnoth/wesnoth",
+    "path": "data/core/images/maps/wesnoth.webp",
+    "sha": "f1b78c5d923912dcea5c0bafced70db243412507",
+    "url": "https://raw.githubusercontent.com/wesnoth/wesnoth/f1b78c5d923912dcea5c0bafced70db243412507/data/core/images/maps/wesnoth.webp"
+  },
+  {
+    "name": "wesnoth-treasure",
+    "repo": "wesnoth/wesnoth",
+    "path": "data/core/images/items/chest.png",
+    "sha": "f1b78c5d923912dcea5c0bafced70db243412507",
+    "url": "https://raw.githubusercontent.com/wesnoth/wesnoth/f1b78c5d923912dcea5c0bafced70db243412507/data/core/images/items/chest.png"
+  },
+  {
+    "name": "mana",
+    "repo": "themanaworld/tmwa-client-data",
+    "path": "graphics/minimaps/001-1.png",
+    "sha": "fcab1dace5971caefd4ffbf539f526bc3506abf1",
+    "url": "https://raw.githubusercontent.com/themanaworld/tmwa-client-data/fcab1dace5971caefd4ffbf539f526bc3506abf1/graphics/minimaps/001-1.png"
+  },
+  {
+    "name": "mana-treasure",
+    "repo": "themanaworld/tmwa-client-data",
+    "path": "graphics/items/use/others/treasuremap.png",
+    "sha": "fcab1dace5971caefd4ffbf539f526bc3506abf1",
+    "url": "https://raw.githubusercontent.com/themanaworld/tmwa-client-data/fcab1dace5971caefd4ffbf539f526bc3506abf1/graphics/items/use/others/treasuremap.png"
+  },
+  {
+    "name": "flare-treasure",
+    "repo": "flareteam/flare-game",
+    "path": "art_src/icons/scrolls/scroll_blank_32.png",
+    "sha": "af6eee6d339ac98011864bfe89da837fe7769c28",
+    "url": "https://raw.githubusercontent.com/flareteam/flare-game/af6eee6d339ac98011864bfe89da837fe7769c28/art_src/icons/scrolls/scroll_blank_32.png"
+  },
+  {
+    "name": "flare",
+    "repo": "flareteam/flare-game",
+    "path": "mods/alpha_demo/maps/ancient_temple.txt",
+    "sha": "af6eee6d339ac98011864bfe89da837fe7769c28"
+  }
+]

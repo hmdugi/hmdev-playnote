@@ -1,0 +1,35 @@
+[
+  {
+    "id": "wesnoth",
+    "name": "The Battle for Wesnoth · 세계 지도",
+    "path": "/maps/wesnoth.webp",
+    "icons": [
+      {
+        "type": "treasure",
+        "path": "/maps/wesnoth-treasure.png"
+      }
+    ]
+  },
+  {
+    "id": "mana",
+    "name": "The Mana World · 001-1 지역 미니맵",
+    "path": "/maps/mana.png",
+    "icons": [
+      {
+        "type": "treasure",
+        "path": "/maps/mana-treasure.png"
+      }
+    ]
+  },
+  {
+    "id": "flare",
+    "name": "Flare · Ancient Temple 바닥 간략도",
+    "path": "/maps/flare.png",
+    "icons": [
+      {
+        "type": "treasure",
+        "path": "/maps/flare-treasure.png"
+      }
+    ]
+  }
+]
